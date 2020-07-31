@@ -1,0 +1,3 @@
+:root {
+	--tint: rgba(var(--tint-colour), var(--tint-brightness));
+}
