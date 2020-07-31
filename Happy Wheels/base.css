@@ -1,5 +1,5 @@
 :root {
-	--tint: rgba(var(--tint-colour), var(--tint-brightness));
+	--tint: rgba(var(--custom-tint);
 }
 
 .winButtonClose-1HsbF-:after {
