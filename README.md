@@ -1,2 +1,2 @@
-### Happy Wheels Theme for BetterDiscord
-This theme allows you to change Happy Wheels-style.
+### BetterDiscord Themes
+There i create my own BetterDiscord themes
