@@ -1,3 +1,8 @@
 :root {
 	--tint: rgba(var(--tint-colour), var(--tint-brightness));
 }
+
+.winButtonClose-1HsbF-:after {
+        content: var(--Close);
+        text-shadow: 0 0 2px black;
+}
